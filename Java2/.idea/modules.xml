@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java2.iml" filepath="$PROJECT_DIR$/Java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab01.7/Lab01.7.iml" filepath="$PROJECT_DIR$/../workspace/Lab01.7/Lab01.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab02.1/Lab02.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab02.1/Lab02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab02.3/Lab02.3.iml" filepath="$PROJECT_DIR$/../workspace/Lab02.3/Lab02.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab03.1/Lab03.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab03.1/Lab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab03.2/Lab03.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab03.2/Lab03.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab03.3/Lab03.3.iml" filepath="$PROJECT_DIR$/../workspace/Lab03.3/Lab03.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab04.1/Lab04.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab04.1/Lab04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab04.1-Extra/Lab04.1-Extra.iml" filepath="$PROJECT_DIR$/../workspace/Lab04.1-Extra/Lab04.1-Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab04.2/Lab04.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab04.2/Lab04.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab05.1/Lab05.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab05.1/Lab05.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab05.2/Lab05.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab05.2/Lab05.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab05.3/Lab05.3.iml" filepath="$PROJECT_DIR$/../workspace/Lab05.3/Lab05.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab05.4/Lab05.4.iml" filepath="$PROJECT_DIR$/../workspace/Lab05.4/Lab05.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab06.1/Lab06.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab06.1/Lab06.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab07.1/Lab07.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab07.1/Lab07.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab07.2/Lab07.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab07.2/Lab07.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab08.1/Lab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab09.1/Lab09.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab09.1/Lab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab10.1/Lab10.1.iml" filepath="$PROJECT_DIR$/../workspace/Lab10.1/Lab10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab11.1A/Lab11.1A.iml" filepath="$PROJECT_DIR$/../workspace/Lab11.1A/Lab11.1A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab11.1B/Lab11.1B.iml" filepath="$PROJECT_DIR$/../workspace/Lab11.1B/Lab11.1B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab11.2/Lab11.2.iml" filepath="$PROJECT_DIR$/../workspace/Lab11.2/Lab11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/Lab11.4/Lab11.4.iml" filepath="$PROJECT_DIR$/../workspace/Lab11.4/Lab11.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab01.1/MiniLab01.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab01.1/MiniLab01.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab01.2/MiniLab01.2.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab01.2/MiniLab01.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab02.1/MiniLab02.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab02.1/MiniLab02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab02.2/MiniLab02.2.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab02.2/MiniLab02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab04.1/MiniLab04.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab04.1/MiniLab04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab06.1/MiniLab06.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab06.1/MiniLab06.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab08.1/MiniLab08.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab08.1/MiniLab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab08.2/MiniLab08.2.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab08.2/MiniLab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab09.1/MiniLab09.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab09.1/MiniLab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab11.1/MiniLab11.1.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab11.1/MiniLab11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/MiniLab11.2/MiniLab11.2.iml" filepath="$PROJECT_DIR$/../workspace/MiniLab11.2/MiniLab11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/workspace/src/main/resources/archetype-resources/src/main/main.iml" filepath="$PROJECT_DIR$/../workspace/workspace/src/main/resources/archetype-resources/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/workspace/src/main/resources/archetype-resources/src/test/test.iml" filepath="$PROJECT_DIR$/../workspace/workspace/src/main/resources/archetype-resources/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/workspace.iml" filepath="$PROJECT_DIR$/../workspace/workspace.iml" />
+    </modules>
+  </component>
+</project>
